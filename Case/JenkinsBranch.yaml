@@ -1,0 +1,11 @@
+Jenkins:
+    url: http://jenkins.test.yitaichang.cn/jenkins/
+    username: dinghong.zou
+    password: Ytc123654
+
+Server:
+    apis-brand: 20190517
+    apis-fmp: 20190517
+    fmp-admin: 20190517
+    fmp-admin-front: 20190517
+    apis-payment: 20190517
